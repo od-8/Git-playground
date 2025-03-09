@@ -2,5 +2,6 @@
 # Will all be movie quotes
 
 puts 'Get to the choppa!'
+puts 'I know Kung Fu'
 
 puts ''
