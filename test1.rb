@@ -4,5 +4,6 @@
 puts 'Get to the choppa!'
 puts 'I know Kung Fu'
 puts 'Astala Vista baby'
+puts 'Become vengence David'
 
 puts ''
